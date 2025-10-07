@@ -2,24 +2,21 @@
 
 <h2>👨‍💻 PROJETS ACADÉMIQUES & DATA :</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Google Sheets</b>
+  - [Analyse des événements culturels à Paris](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Excel</b>
+  - [Analyse thermique et modélisation de la propagation de la chaleur dans un séchoir solaire](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>RStudio</b>
+  - [Analyse et modélisation de la propagation du COVID-19 (modèle SIR)](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Scilab</b>
+  - [Simulation et analyse de la propagation des ondes Wi-Fi dans un bâtiment](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>MATLAB</b>
+  - [Analyse de la répartition de la chaleur dans un bâtiment](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 <h2>📺 EXPÉRIENCES PROFESSIONNELLES</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Excel VBA</b>
+  - [Automatisation et centralisation de données techniques (trame de dossier technique)](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
 
