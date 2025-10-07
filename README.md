@@ -3,7 +3,7 @@
 <h2>👨‍💻 PROJETS ACADÉMIQUES & DATA :</h2>
 
 - <b>Google Sheets</b>
-  - [Analyse des événements culturels à Paris](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyse des événements culturels à Paris](https://github.com/elomdegbe/paris-culture)
 - <b>Excel</b>
   - [Analyse thermique et modélisation de la propagation de la chaleur dans un séchoir solaire](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>RStudio</b>
@@ -21,9 +21,9 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/joshmadakor/
+
+
 [linkedin]: https://linkedin.com/in/elomdegbe
 
 <!--
