@@ -5,7 +5,7 @@
 - <b>Google Sheets</b>
   - [Analyse des événements culturels à Paris](https://github.com/elomdegbe/paris-culture)
 - <b>Excel</b>
-  - [Analyse thermique et modélisation de la propagation de la chaleur dans un séchoir solaire](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyse thermique et modélisation de la propagation de la chaleur dans un séchoir solaire](https://github.com/elomdegbe/Analyse-du-sechoir-solaire/)
 - <b>RStudio</b>
   - [Analyse et modélisation de la propagation du COVID-19 (modèle SIR)](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Scilab</b>
