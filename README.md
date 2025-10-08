@@ -7,7 +7,7 @@
 - <b>Excel</b>
   - [Analyse thermique et modélisation de la propagation de la chaleur dans un séchoir solaire](https://github.com/elomdegbe/Analyse-du-sechoir-solaire/)
 - <b>RStudio</b>
-  - [Analyse et modélisation de la propagation du COVID-19 (modèle SIR)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyse et modélisation de la propagation du COVID-19 (modèle SIR)](https://github.com/elomdegbe/Analyse-COVID-19)
 - <b>Scilab</b>
   - [Simulation et analyse de la propagation des ondes Wi-Fi dans un bâtiment](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>MATLAB</b>
