@@ -1,5 +1,27 @@
 <h1>Bonjour, Je suis Elom DEGBE! <br/><a href="https://github.com/elomdegbe">Data analyst</a>, <a href="https://www.linkedin.com/in/elomdegbe/">Automatisation | IA appliquée au Business</a> </h1>
 
+<h2>À propos de moi</h2>
+
+  <p>
+    Je suis un <strong>ingénieur passionné par la data, l’automatisation et la modélisation numérique</strong>, 
+    avec une formation en <strong>énergie, environnement</strong> et un fort intérêt pour 
+    <strong>l’intelligence artificielle appliquée au business</strong>.
+  </p>
+  <p>
+    Mon parcours m’a conduit à travailler sur des projets variés mêlant 
+    <em>analyse de données</em>, <em>simulation physique</em> et 
+    <em>optimisation de processus techniques</em>.
+  </p>
+  <p>
+    Je crois en une approche <strong>data-driven</strong> pour améliorer la performance des systèmes 
+    et faciliter la prise de décision. 
+    Aujourd’hui, je cherche à combiner mes compétences en <strong>ingénierie</strong>, 
+    <strong>programmation</strong> et <strong>analyse de données</strong> 
+    pour concevoir des solutions <strong>intelligentes, automatisées et accessibles à tous</strong>.
+  </p>
+</section>
+
+
 <h2>👨‍💻 PROJETS ACADÉMIQUES & DATA :</h2>
 
 - <b>Google Sheets</b>
@@ -15,6 +37,20 @@
 
 - <b>Excel VBA</b>
   - [Automatisation et centralisation de données techniques (trame de dossier technique)](https://github.com/elomdegbe/trame-vba-)
+ 
+<section id="competences-cles" aria-labelledby="competences-cles-title">
+  <h2 id="competences-cles-title">Compétences clés</h2>
+
+  <ul class="skills-list">
+    <li><strong>Data Analysis &amp; Visualization :</strong> Excel, R, Python, Power BI</li>
+    <li><strong>Simulation &amp; Modélisation :</strong> MATLAB, Scilab</li>
+    <li><strong>Automatisation &amp; Optimisation des processus :</strong> VBA, Google Sheets</li>
+    <li><strong>Énergie, Environnement  &amp; Performance Technique</strong></li>
+    <li><strong>Intelligence Artificielle &amp; Transformation Digitale</strong></li>
+  </ul>
+</section>
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
