@@ -1,6 +1,6 @@
 <h1>Bonjour, Je suis Elom DEGBE! <br/><a href="https://github.com/elomdegbe">Data analyst</a>, <a href="https://www.linkedin.com/in/elomdegbe/">Automatisation | IA appliquée au Business</a> </h1>
 
-<h2>À propos de moi</h2>
+<h2>🤔À propos de moi</h2>
 
   <p>
     Je suis un <strong>ingénieur passionné par la data, l’automatisation et la modélisation numérique</strong>, 
