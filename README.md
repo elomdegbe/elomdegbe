@@ -42,11 +42,12 @@
   <h2 id="competences-cles-title">Compétences clés</h2>
 
   <ul class="skills-list">
-    <li><strong>Data Analysis &amp; Visualization :</strong> Excel, R, Python, Power BI</li>
+    <li><strong>Data Analysis &amp; Visualization :</strong> Excel, R, Python, SQL, Power BI</li>
     <li><strong>Simulation &amp; Modélisation :</strong> MATLAB, Scilab</li>
     <li><strong>Automatisation &amp; Optimisation des processus :</strong> VBA, Google Sheets</li>
+    <li><strong>Intelligence Artificielle &amp; Transformation Digitale :</strong> Hubspot, Dataiku, Zapier, Airtable</li>
     <li><strong>Énergie, Environnement  &amp; Performance Technique</strong></li>
-    <li><strong>Intelligence Artificielle &amp; Transformation Digitale</strong></li>
+
   </ul>
 </section>
 
