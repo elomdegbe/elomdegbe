@@ -14,7 +14,7 @@
 <h2>📺 EXPÉRIENCES PROFESSIONNELLES</h2>
 
 - <b>Excel VBA</b>
-  - [Automatisation et centralisation de données techniques (trame de dossier technique)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Automatisation et centralisation de données techniques (trame de dossier technique)](https://github.com/elomdegbe/trame-vba-)
 
 <h2> 🤳 Connect with me:</h2>
 
