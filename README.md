@@ -34,6 +34,8 @@
   - [Analyse et modélisation de la propagation du COVID-19 (modèle SIR)](https://github.com/elomdegbe/Analyse-COVID-19)
 - <b>MATLAB et Scilab</b>
   - [Simulation et analyse de la propagation des ondes Wi-Fi dans un bâtiment](https://github.com/elomdegbe/Analyse-de-la-propagation-des-ondes-Wi-Fi)
+- <b>Python</b>
+  - [Analyse des causes de retard des vols US – 2023](https://github.com/elomdegbe/retards-vol-USA-2023)
   
 <h2>📺 EXPÉRIENCES PROFESSIONNELLES</h2>
 
