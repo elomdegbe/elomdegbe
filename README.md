@@ -23,7 +23,8 @@
 
 
 <h2>👨‍💻 PROJETS ACADÉMIQUES & DATA :</h2>
-
+- <b>Python</b>
+  - [Analyse de données footballistiques & Classement des joueurs avec Python](https://github.com/elomdegbe/meilleur-buteur)
 - <b>Google Sheets</b>
   - [Analyse des événements culturels à Paris](https://github.com/elomdegbe/paris-culture)
 - <b>Excel</b>
